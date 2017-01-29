@@ -93,12 +93,12 @@ h6 {
 }
 
 .content-section-a {
-    padding: 50px 0;
+    padding: 30px 0;
     background-color: #f8f8f8;
 }
 
 .content-section-b {
-    padding: 50px 0;
+    padding: 30px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -114,8 +114,8 @@ h6 {
 }
 
 .banner {
-    padding: 200px 0;
-    color: #f8f8f8;
+    padding: 50px 0;
+    color: black;
     background: url(../img/bottom.jpg) no-repeat center center;
     background-size: cover;
 }
